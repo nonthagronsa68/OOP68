@@ -9,11 +9,11 @@
 
 ## FAQ
 
-#### Question 1
+#### คุณชื่ออะไร
 
 Answer 1
 
-#### Question 2
+#### คุณอายเท่าไหร่
 
 Answer 2
 
